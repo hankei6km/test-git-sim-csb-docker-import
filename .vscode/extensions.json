@@ -1,0 +1,4 @@
+{
+  // https://codesandbox.io/docs/learn/repositories/editors#default-workspace-extensions
+  "recommendations": ["ms-azuretools.vscode-docker", "timonwong.shellcheck"]
+}

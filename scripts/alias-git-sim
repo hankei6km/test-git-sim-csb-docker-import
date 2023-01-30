@@ -1,0 +1,1 @@
+alias git-sim='git-sim --media-dir /workspace/ -d' 
